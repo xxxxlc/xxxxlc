@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning \
+🌱 I’m currently learning 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxlc)](https://github.com/xxxxlc/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxlc&layout=compact)](https://github.com/xxxxlc/github-readme-stats) 
 \
 ![xxxxlc's GitHub stats](https://github-readme-stats.vercel.app/api?username=xxxxlc&show_icons=true&theme=graywhite)
