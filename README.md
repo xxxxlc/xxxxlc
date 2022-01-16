@@ -30,7 +30,7 @@ const xxxxlc = {
 
 #### Some stats
 
-<p align='center'><em><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxlc&langs_count=10&theme=graywhite&layout=compact" alt="AnhellO :: Top Langs" />   <img src="https://github-readme-stats.vercel.app/api?username=xxxxlc&show_icons=true&theme=graywhite" alt="xxxxlc :: Profile Stats" /></em></p>
+<p><em><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxxlc&langs_count=10&theme=graywhite&layout=compact" alt="AnhellO :: Top Langs" /><img src="https://github-readme-stats.vercel.app/api?username=xxxxlc&show_icons=true&theme=graywhite" alt="xxxxlc :: Profile Stats" /></em></p>
 
 
 
