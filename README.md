@@ -9,22 +9,7 @@
 
 
 
-#### A little more about me...
 
-```javascript
-const xxxxlc = {
-  pronouns: "he" | "him",
-  code: [Python],
-  tools: [],
-  architecture: [],
-  techCommunities: {},
-  challenge: "Hobby"
-}
-```
-
-
-
-<img src="README/giphy-164230949383410.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 
